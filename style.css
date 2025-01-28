@@ -1,0 +1,41 @@
+@font-face {
+    font-family: arvo;
+    src: url(Arvo/Arvo-Regular.ttf);
+}
+
+
+@font-face {
+    font-family: mulish;
+    src: url(Mulish/static/Mulish-Regular.ttf);
+}
+.bg-color{
+    background-color: #F0ECF9;
+}
+
+.font-a {
+    font-family: arvo;
+}
+
+.font-m {
+    font-family: mulish;
+}
+
+.para-color {
+    color: #808081 !important;
+}
+
+.lilac{
+     color: #6F42C199;
+}
+
+.head-color{
+    color: #6F42C1;
+}
+
+.btn-purple{
+    background-color: #6F42C1;
+    color: white;
+    border-radius: 20px;
+    width: 150px;
+    height: 40px;
+}
